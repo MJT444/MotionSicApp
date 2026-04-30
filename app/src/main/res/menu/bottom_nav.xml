@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_horizon"
+        android:icon="@drawable/ic_horizon"
+        android:title="@string/nav_horizon"/>
+    <item android:id="@+id/nav_breathe"
+        android:icon="@drawable/ic_breathe"
+        android:title="@string/nav_breathe"/>
+    <item android:id="@+id/nav_acupressure"
+        android:icon="@drawable/ic_acupressure"
+        android:title="@string/nav_acupressure"/>
+    <item android:id="@+id/nav_log"
+        android:icon="@drawable/ic_log"
+        android:title="@string/nav_log"/>
+</menu>

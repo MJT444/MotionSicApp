@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MotSic</string>
+
+    <string name="nav_horizon">Horizon</string>
+    <string name="nav_breathe">Breathe</string>
+    <string name="nav_acupressure">Acupressure</string>
+    <string name="nav_log">Log</string>
+
+    <string name="focus_dot">Focus dot</string>
+    <string name="mode_cues">Cues</string>
+    <string name="mode_line">Horizon</string>
+    <string name="horizon_hint">Hold steady — keep your eyes on the line</string>
+    <string name="cues_hint">Dots in the corners drift with the vehicle\'s motion. You can keep using the rest of the screen.</string>
+    <string name="dot_hint">Stare at the dot. Breathe slowly.</string>
+    <string name="pop_out">Pop out over other apps</string>
+    <string name="stop_overlay">Stop overlay</string>
+    <string name="overlay_active">MotSic cues running</string>
+    <string name="overlay_tap_to_stop">Tap Stop to dismiss the overlay</string>
+    <string name="notif_channel_name">Motion-cue overlay</string>
+    <string name="overlay_permission_needed">Allow MotSic to draw over other apps in the system settings, then tap Pop out again.</string>
+
+    <string name="breathe_hint">Inhale 4s &#8226; Hold 7s &#8226; Exhale 8s</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+
+    <string name="acupressure_title">P6 (Nei-Kuan) point</string>
+    <string name="acupressure_hint">Place 3 fingers on the inside of your wrist, just below the crease. The P6 point sits between the two tendons under your index finger. Apply firm circular pressure for 2 minutes per wrist.</string>
+    <string name="start_2min">Start 2-minute timer</string>
+
+    <string name="tips_title">Quick tips</string>
+    <string name="tips_body">&#8226; Face forward; sit in the front seat if you can.\n&#8226; Keep your eyes on the horizon, not on books or screens.\n&#8226; Crack a window — fresh, cool air helps.\n&#8226; Try ginger (chew, tea, or candy).\n&#8226; Stay hydrated; avoid heavy meals before travel.\n&#8226; If you feel queasy: breathe slowly and press P6.</string>
+
+    <string name="recent_episodes">Recent episodes</string>
+    <string name="log_episode">Log episode</string>
+    <string name="log_new_episode">Log new episode</string>
+    <string name="empty_log">No episodes logged yet. Tap the button after a trip to start tracking what triggers you.</string>
+
+    <string name="trigger">Trigger</string>
+    <string name="severity">Severity (1–5)</string>
+    <string name="what_helped">What helped (optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="trigger_car">Car</string>
+    <string name="trigger_boat">Boat</string>
+    <string name="trigger_plane">Plane</string>
+    <string name="trigger_vr">VR</string>
+    <string name="trigger_other">Other</string>
+
+    <string name="timer_two_minutes">2:00</string>
+</resources>
